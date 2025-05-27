@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate and motivated individual with exp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kalyan-kumar-padilam-1a69a8293)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kalyanpadilam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=windowsterminal&logoColor=white&style=for-the-badge)]([https://your-portfolio-site.com](https://padilamkalyankumar.github.io/portfolio/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=windowsterminal&logoColor=white&style=for-the-badge)](https://your-portfolio-site.com](https://padilamkalyankumar.github.io/portfolio/)
 ---
 
 ⭐️ Thank you for visiting my profile! Feel free to check out my repositoriesMm.
