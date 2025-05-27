@@ -21,10 +21,15 @@ Welcome to my GitHub profile! I'm a passionate and motivated individual with exp
 ## 🔧 Tech Stack
 
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20Java%2C%20C-blue)
+
 ![Frontend](https://img.shields.io/badge/Frontend-React%2C%20HTML%2C%20CSS%2C%20JS-orange)
+
 ![Backend](https://img.shields.io/badge/Backend-Node.js%2C%20Express-green)
+
 ![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20MongoDB-lightgrey)
+
 ![Tools](https://img.shields.io/badge/Tools-Git%2C%20Postman%2C%20VSCode-informational)
+
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%2C%20Firebase-yellow)
 
 ---
