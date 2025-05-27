@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kalyan Padilam!
 
-<!--
-**Padilamkalyankumar/PadilamKalyanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and motivated individual with experience in software development, machine learning, and web technologies. I love building meaningful projects and learning new technologies along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I'm currently pursuing my Btech at Sri Vasavi Engineering College
+- 💡 I love working on **Full-Stack Development**, **AI/ML Projects**, and **Mobile Applications**
+- 🌱 I have completed internships in:
+  - AWS Cloud (Brainovision)
+  - AI/ML (EduSkills)
+  - Web Development (Skill Vertex)
+- 🏆 Achievements:
+  - NPTEL Elite+Silver Certificate in **Computer Networks and Internet Protocol**
+  - Participated in organizing tech events at **Microsoft Learn Student Club**
+
+---
+
+## 🔧 Tech Stack
+
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20Java%2C%20C-blue)
+![Frontend](https://img.shields.io/badge/Frontend-React%2C%20HTML%2C%20CSS%2C%20JS-orange)
+![Backend](https://img.shields.io/badge/Backend-Node.js%2C%20Express-green)
+![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20MongoDB-lightgrey)
+![Tools](https://img.shields.io/badge/Tools-Git%2C%20Postman%2C%20VSCode-informational)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%2C%20Firebase-yellow)
+
+---
+
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/kalyan-kumar-padilam-1a69a8293)
+- 📧 Email: kalyanpadilam@gmail.com
+
+---
+
+⭐️ Thank you for visiting my profile! Feel free to check out my repositoriesMm.
